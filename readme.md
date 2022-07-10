@@ -1,4 +1,6 @@
 # Tailwind Manage Landing Page
+[Live version](https://manage-tailwind-landingpage.netlify.app/)
+
 
 ![Alt text](/img/screen.png?raw=true)
 
